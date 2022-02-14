@@ -8,4 +8,4 @@
   - KBS, SBS, MBC 실시간 라디오 방송을 청취 및 설정페이지에서 KBS 라디오 청취 방송의 편성표 조회
   - KBS 라디오 청취중인 방송의 앨범 이미지와 프로그램 제목 출력 및 프로그램 변경시 자동 반영
    
-<img src="https://user-images.githubusercontent.com/6029106/153179013-e0ad28fc-85a2-417e-9751-daa08e5246c4.jpg" width="350" height="500" />
+<img src="https://user-images.githubusercontent.com/6029106/153871633-248357f9-baea-4f16-a886-291af2054301.png" width="350" height="500" />
